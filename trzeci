@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+  
+    <title>Kontakt - Marzenie-Tour</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+    <a><header><b>BIURO PODRÓŻY MARZENIE-TOUR</b></header></a>
+        <section>
+        <div id="menu">
+		
+
+
+<section>
+<nav>
+<ul>
+<li><a href="index.html">Strona główna</a></li>
+<li><a href="pierwszy.html">Oferty wycieczek </a></li>
+<li><a href="drugi.html">Zapisy</a></li>
+<li><a href="trzeci.html">Kontakt</a></li>
+<li><a href="czwarty.html">O firmie</a></li>
+</nav>
+</section> 
+
+
+    <div id="main">
+   <br><br>
+        <div id="prawy"><hr>
+		<center>
+		<b>Social media:<br></b>
+		<b>Facebook:</b> Biuro Podróży Marzenie-Tour<br>
+		<b>Instagram:</b> Marzenie-Tour<br>
+		<b>Strona internetowa:</b> biuropodrozymarzenietour.com<br><br>
+		<b>Numer telefonu:</b><br>
+		+48 666-666-666; 
+		+48 777-777-777<br><br>
+		<b>Adres Email:</b><br>
+		marzenie-tour@biuropodrozy.com<br><br>
+		<b>Adres biura:</b><br>
+		BEŁCHATÓW
+ul. Tuwima 55<br>
+97-400 Bełchatów<br><br>
+<b>Biuro czynne:<br></b>
+Poniedziałek - Piątek:  9:30 - 17:30<br>
+Sobota:  10:00 - 13:00 - po wcześniejszym umówieniu się.
+			</center><hr>
+		
+            </div>
+			
+			</center><br>
+
+            </div>
+    </div>
+
+		</html>
+		</body>
