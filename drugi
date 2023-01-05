@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+  
+    <title>Zapisy - Marzenie-Tour</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+    <a><header><b>BIURO PODRÓŻY MARZENIE-TOUR</b></header></a>
+        <section>
+        <div id="menu">
+		
+
+
+
+
+<section>
+<nav>
+<ul>
+<li><a href="index.html">Strona główna</a></li>
+<li><a href="pierwszy.html">Oferty wycieczek </a></li>
+<li><a href="drugi.html">Zapisy</a></li>
+<li><a href="trzeci.html">Kontakt</a></li>
+<li><a href="trzeci.html">O firmie</a></li>
+</nav>
+</section> 
+
+
+
+    <div id="main"><br><br>
+   
+        <div id="prawy">
+		<center>
+     <form method="post">
+
+    
+<hr>
+    <p><strong>Imię</strong>: <input type="text" name="Imię" size="30" maxlength="40" style="
+    background-color:#CCFF99; font-style: italic; color: gray" required></p>
+    <p><strong>Nazwisko</strong>: <input type="text" name="Nazwisko" size="30" maxlength="40" style="
+        background-color:#CCFF99; font-style: italic; color: gray" required></p>
+<p><strong>Miejscowość</strong>: <input type="text" name="Nazwisko" size="30" maxlength="40" style="
+        background-color:#CCFF99; font-style: italic; color: gray" required></p>
+		<p><strong>Email</strong>: <input type="text" name="Nazwisko" size="30" maxlength="40" style="
+        background-color:#CCFF99; font-style: italic; color: gray" required></p>
+				<p><strong>Telefon</strong>: <input type="text" name="Nazwisko" size="30" maxlength="40" style="
+        background-color:#CCFF99; font-style: italic; color: gray" required></p><br>
+		    <p><strong>Dzieci<name="Nazwisko" size="30" maxlength="40" style="
+        background-color:#CCFF99; font-style: italic; color:#CCFF99" required></p>
+<input type="radio" name="Wiek" value="mniej niż 15">tak
+<input type="radio" name="Wiek" value="15-19">nie<br>
+<br>
+	
+				 <p><strong>Wycieczka w Polsce:</strong> <select style=" background-color: #CCFF99;font-style: italic;color: black;">
+
+            <option value="HTML">Zakopane</option>
+            <option value="CSS">Hel</option>
+			   <option value="CMS">Oceanarium Łódź</option>
+            <option value="CMS">Energylandia</option>
+			   <option value="CMS">Warszawa</option>
+			      <option value="CMS">Mazury</option>
+  
+            </select> </p>
+				 <p><strong>Wycieczka za granicą:</strong> <select style=" background-color: #CCFF99;font-style: italic;color: black;">
+
+            <option value="HTML">Gruzja</option>
+            <option value="CSS">Włochy</option>
+			   <option value="CMS">Lloret de Mar</option>
+
+
+  
+            </select> </p><br>
+
+
+   <p>Dodatkowe informacje które chcesz nam przekazać:</p>
+<textarea name="Komentarz" cols="48" rows="4" style="background-color: #CCFF99" >Napisz tu:</textarea>
+<br><br>
+            <input type="submit" value="Prześlij"></p>
+            </form>
+			</center><br><hr>
+				<center> Po przesłaniu formluarza zgłosimy się w jak najszybszym czasie w celu ustalenia spotkania dotyczącego wybranego wyjazdu. Dziękujemy!
+            </div>
+			
+			</center><br>
+
+            </div>
+    </div>
+
+		</html>
+		</body>
