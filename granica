@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+  
+    <title>Biuro podróży Marzenie-Tour</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+    <a><header><b>BIURO PODRÓŻY MARZENIE-TOUR</b></header></a>
+        <section>
+        <div id="menu">
+		
+
+
+
+
+<section>
+<nav>
+<ul>
+<li><a href="index.html">Strona główna</a></li>
+<li><a href="pierwszy.html">Oferty wycieczek </a></li>
+<li><a href="drugi.html">Zapisy</a></li>
+<li><a href="trzeci.html">Kontakt</a></li>
+<li><a href="czwarty.html">O firmie</a></li>
+</nav>
+</section> 
+
+</head>
+
+
+    <div id="main">
+   
+        <div id="prawy">
+		<center>
+            <table>
+                <tr>
+                      <td colospan="2"><a ><img src="https://www.tamadatour.pl/wp-content/uploads/2018/04/Cminda-sameba-stepancminda-Gruzja-2000.jpg"</td></a> <li><b>Gruzja</b></li>
+                	                              
+                                       Bajeczny Kaukaz<br>
+14 – 21 czerwca 2022r<br>
+WYJAZD POTWIERDZONY<br>
+Mamy jeszcze 2 miejsca WOLNE!<br>
+Uwaga!
+Dokładna informacja o wylocie zostanie przekazana na tydzień przed wylotem.
+Osoby podróżujące po Gruzji powinny posiadać dowód osobisty bądź paszport ( ważny na 6 miesięcy przed końcem daty jego ważności).
+Przy zapisie wymagane dane osobowe oraz wpłata zaliczki w wysokości 1500 zł os osoby.<br>
+Cena; 3 600,00 zł + 200 euro
+Przy podpisaniu umowy wymagana zaliczka w wysokości 1500,00 zł.  oraz dane osobowe + paszport lub dowód osobisty.<br><br>
+					  
+					  <td colospan="2"><a ><img src="https://www.euractiv.pl/wp-content/uploads/sites/6/2021/10/photo-1515542622106-78bda8ba0e5b-800x450.jpg"</td></a> <li><b>Włochy</b></li>
+                                                                                  WŁOCHY
+                                                                  20 – 27 kwietnia 2022r    
+                                                               bez nocnych przejazdów
+Rzym, Wenecja, Bazylika, Traviso, Toskania
+
+Uwaga ! Prosimy mieć na uwadze, że warunki wjazdowe( m.in.obostrzenia z tytułu Covd-19) mogą ulegać zmianie.W przypadku konieczności wykonywania testu/testów-jego/ich koszt i wykonanie leżą po stronie uczestnika. Zmiana warunków wjazdowych nie stanowi podstawy do rezygnacji z wyjazdu. Program jest ramowy i kolejność może ulec zmianie.
+<br>
+CENA : 2000,00zł + 150 euro<br><br><br><br><br><br>
+		<td colospan="2"><a hrml"><img src="https://bi.im-g.pl/im/4/11565/z11565074V,Hiszpania-wycieczki--Lloret-de-Mar.jpg"</td></a> <li><b>Lloret de Mar</b></li>
+		27.05 - 7.06 2022r. Hiszpania to kraj pełen słońca, tradycji i różnorodnych kultur. Wakacje w Hiszpanii to idealna propozycja dla wszystkich, zarówno dla turystów preferujących aktywny wypoczynek, jak i wczasowiczów wylegujących się na plaży i korzystających z uroków nadmorskich kurortów.Informacje ogólne o krajuTo państwo położone w zachodniej części Europy, z dostępem do Morza Śródziemnego oraz Zatoki Biskajskiej. 
+<br>
+Cena:
+ 2598 zł/os<br><br><Br><br><br><br>
+                    
+                </tr>
+				<tr>
+
+					</tr>
+                
+             </table>
+			</center><br><hr>
+
+            </div>
+			
+			</center><br>
+
+            </div>
+    </div>
+
+		</html>
+		</body>
