@@ -1,0 +1,157 @@
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #F2E0C9;
+	
+}
+header{
+	position: relative;
+	color: #F2E0C9;
+    background-color:#594636;
+    text-align:center;
+    font-size:40px;
+	margin-top: -10px;
+	margin-bottom: 29px;
+	margin-left: -12px;
+	font-family: 'Montserrat', sans-serif;
+    width:100%;
+    padding:20px;
+    box-shadow: 0 15px 20px 10px black;
+	
+}
+
+ul {
+float: down;
+width: 100%;
+padding: 10px;
+margin: -2%;
+list-style: none;
+}
+
+li a {
+
+display: block;
+position: relative;
+z-index: 2;
+left: 9.3%;
+float: left;
+text-align: center;
+font-size: 24px;
+font-family: 'Montserrat', sans-serif;
+width: 14.35%;
+text-decoration: none;
+color: black;
+background-color: #A68263;
+padding: 20px 15px;
+margin: 0px 1px 1px 0px;
+border: 4px solid black;
+border-radius: 3px;
+-moz-border-radius: 5px;
+-webkit-border-radius: 5px;
+box-shadow: 20px 10px 15px black;
+-moz-box-shadow: 0px 19px 15px black;
+-webkit-box-shadow: 0px 15px 15px black;
+}
+
+li a:hover {
+
+color: white;
+background: black;
+border: 1px solid black;
+}
+
+#main{
+
+    position: relative;
+    left: 10%;
+    top:60px;
+    float: center;
+    height: 5900px;
+    width: 80%;
+    border-radius: 5px;
+	box-shadow: 0px 15px 15px 15px black;
+    text-align: center;
+    font-size:30px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#main
+{
+    margin: 1% auto 0 auto;
+	margin-left: -20px;
+    width: 80%;
+    height: 50%;
+    border: 9px double black;
+    border-radius: 5px;
+	background-color: #D9BB96;
+
+}
+
+#baner
+{
+    font-family: Tahoma;
+    color: #003333;
+    padding-top: 2%;
+    height: 5%;
+    font-weight: 900;
+    background-color: #FFFF59;
+    text-align: center;
+    font-size: 35px;
+}
+
+	
+img{
+    overflow: hidden;
+    padding: 0;
+    width: 425px;
+    height: 300px;
+    border-radius: 5px;
+}
+img {
+    transition-duration: 2s;
+    margin: 0 auto;
+    display: block;
+}
+img:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.3);
+    z-index: 0;
+}
+
+
+table
+{
+border-spacing: 15px 20px;
+margin:auto;
+text-align: center;
+}
+
+img1{
+    overflow: hidden;
+    padding: 0;
+    width: 1425px;
+    height: 345px;
+    border-radius: 5px;
+}
+img1{
+    transition-duration: 2s;
+    margin: 0 auto;
+    display: block;
+}
+img1:hover {
+    transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    -moz-transform: scale(1.3);
+    z-index: 0;
+p
+{
+    font-size: x-large;
+}
+
+li
+{
+list-style-image: ↑;
+list-style-position: inside;
+font-size: x-large;
+}
+
