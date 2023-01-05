@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="UTF-8">
+  
+    <title>Oferty wycieczek - Marzenie-Tour</title>
+    <link rel="stylesheet" type="text/css" href="style.css"/>
+</head>
+<body>
+    <a><header><b>BIURO PODRÓŻY MARZENIE-TOUR</b></header></a>
+        <section>
+        <div id="menu">
+		
+
+
+
+
+<section>
+<nav>
+<ul>
+<li><a href="index.html">Strona główna</a></li>
+<li><a href="pierwszy.html">Oferty wycieczek </a></li>
+<li><a href="drugi.html">Zapisy</a></li>
+<li><a href="trzeci.html">Kontakt</a></li>
+<li><a href="czwarty.html">O firmie</a></li>
+</nav>
+</section> 
+
+
+
+    <div id="main"><br><br>
+   
+        <div id="prawy">
+		<center>
+            <table>
+                <tr><hr>
+				<td colospan="2"><a href="kraj.html"><img src="https://img.freepik.com/darmowe-zdjecie/lokalizacja-celu-na-mapie-polski-jest-oznaczona-czerwona-pinezka_94046-879.jpg?w=360"</td></a> <li><i><b>Wycieczki krajowe</li>
+                    <td colospan="2"><a href="granica.html"><img src="https://d-art.ppstatic.pl/kadry/k/r/1/19/34/5d6524344635d_o_medium.jpg"</td></a> <li><i><b>Wycieczki zagraniczne</li>
+                </tr> </div>
+           
+             </table>
+			</center><br><hr>
+				<h10><center>Naciśnij wybrany obrazek po więcej informacji.</h10>
+            </div>
+			
+			</center><br>
+
+            </div>
+    </div>
+
+		</html>
+		</body>
